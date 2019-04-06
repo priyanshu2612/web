@@ -10,7 +10,7 @@ $ cd csea_events
 
 $ python manage.py runserver
 
-//then go to - "http://localhost:8000" on the server
+//then go to - "http://localhost:8000" on the browser
 
 ```
 
@@ -26,7 +26,7 @@ $ cd csea_events
 
 $ python manage.py runserver
 
-//then go to :http://localhost:8000" on the server
+//then go to - "http://localhost:8000" on the browser
 ```
 
 ## Warning
