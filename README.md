@@ -1,5 +1,5 @@
 # web
- ## Using if pipenv is installed
+ ## Using if pipenv and python 3.6 is installed
  
 ```
 $ git clone <repo url>
@@ -14,7 +14,7 @@ $ python manage.py runserver
 
 ```
 
-## If pipenv isn't installed
+## If pipenv or python 3.6 isn't installed (or any other problem come up)
 
 ```
 $ pip install requests django
